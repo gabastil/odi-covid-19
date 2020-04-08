@@ -1,0 +1,7 @@
+numpy
+ipywidgets
+nbinteract
+geopandas
+pandas
+altair
+matplotlib
