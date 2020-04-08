@@ -1,23 +1,23 @@
 Column, Description
 GUBID,
-ISOALPHA,
-COUNTRYNM,
+ISOALPHA, ISO Code for Country Name
+COUNTRYNM, Country Name
 NAME1,
 NAME2,
 NAME3,
 NAME4,
 NAME5,
 NAME6,
-CENTROID_X,
-CENTROID_Y,
+CENTROID_X, Centroid coordinates for this shape
+CENTROID_Y, Centroid coordinates for this shape
 INSIDE_X,
 INSIDE_Y,
 CONTEXT,
 CONTEXT_NM,
 WATER_CODE,
-TOTAL_A_KM,
-WATER_A_KM,
-LAND_A_KM,
+TOTAL_A_KM, Total area in kilometers squared
+WATER_A_KM, Total water area only in kilometers squared
+LAND_A_KM, Total land area only in kilometers squared
 UN_2000_E,
 UN_2005_E,
 UN_2010_E,
