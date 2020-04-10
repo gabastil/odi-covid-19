@@ -16,6 +16,9 @@ Contents
 
 Data products intended for end-user usage are located in the `visualizations` folder.
 
+###### Sample
+  1. [index.html](./visualizations/demographics/index.html)
+
 <a id='data-visualization-files'></a>
 #### Data Visualization Files
 
