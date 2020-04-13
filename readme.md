@@ -6,6 +6,7 @@ Contents
     * [Data visualization files](#data-visualization-files)
   * [Developer Files](#developer-files)
     * [Data](#data)
+      * [Inventory of Data](#inventory-of-data)
       * [Data Dictionaries](#data-dictionaries)
     * [Jupyter Notebooks](#jupyter-notebooks)
     * [Requirements Files](#requirements-files)
@@ -14,15 +15,15 @@ Contents
 <a id='end-user'></a>
 ## End-User Files
 
-Data products intended for end-user usage are located in the `visualizations` folder.
+The dashboard is directly accessible via [https://gabastil.github.io/odi-covid-19](./docs/index.html). Alternatively, data products intended for end-user usage are located in the `docs` folder.
 
-###### Sample
-  1. [index.html](./visualizations/demographics/index.html)
+For example, the index page for the dashboard is located here:
+  1. [./docs/index.html](./docs/index.html)
 
 <a id='data-visualization-files'></a>
 #### Data Visualization Files
 
-The `visualizations` folder contains interactive HTML files for dissemination. These HTML files are ready to use immediately upon download.
+The `visualizations` folder contains interactive HTML files for dissemination. These files are immediately viewable upon download to your local device.
 
 **Requirements** : The only software required is a browser that can render SVG and JavaScript enabled. Most modern browsers are able to do this except for Internet Explorer, which may result in unpredictable rendering of visualizations and interaction capability.
 
@@ -34,7 +35,7 @@ The `visualizations` folder contains interactive HTML files for dissemination. T
 <a id='developer'></a>
 ## Developer Files
 
-These files are open for further changes from any developer who wishes to do so.
+These files are open for further changes from developers.
 
 <a id='data'></a>
 #### Data
@@ -44,11 +45,22 @@ Various types of data were used to generate the visualizations in `visualization
   1. Inventory of Data
   2. Data Dictionaries
 
+<a id='inventory-of-data'></a>
+##### 1. Inventory of Data
+
+Data | Description | Location
+--- | --- | ---
+Demographics | UN population count from 2000 to 2020 | [data/datasets/demographics](./data/datasets/demographics)
+Regions | Shapefile data for regions and sectors in Guinea-Bissau | [data/maps/regions](./data/maps/regions)
+
 
 <a id='data-dictionaries'></a>
-##### Data Dictionaries
+##### 2. Data Dictionaries
 
-###### Gridded Population of the World (GPW) ([Source](https://sedac.ciesin.columbia.edu/downloads/docs/gpw-v4/gpw-v4-documentation-rev11.pdf))
+###### 2.1 Gridded Population of the World (GPW) ([Source](https://sedac.ciesin.columbia.edu/downloads/docs/gpw-v4/gpw-v4-documentation-rev11.pdf))
+
+Data dictionary for `gpw-v4-documentation-rev11.csv`
+
 Column | Description
 --- | ---
 GUBID | Unique random (text) id
@@ -155,5 +167,9 @@ A85PLUSM | Age 85 and older (Males)
 
 Final visualizations are made in `jupyter` and published as interactive pages by the `nbinteract` package. Both were developed in the Python programming language.
 
+You can directly access the current dashboard at [https://gabastil.github.io/odi-covid-19](./docs/index.html).
+
 <a id='requirements-files'></a>
 #### Requirements Files
+
+`To be filled out`
