@@ -50,13 +50,13 @@ Various types of data were used to generate the visualizations in `visualization
 
 Data | Description | Location
 --- | --- | ---
-Demographics | UN population count from 2000 to 2020 | [data/datasets/demographics](github.com/gabastil/odi-covid-19/tree/master/data/datasets/demographics)
-Health Centers | Shapefile data for health center locations in Guinea-Bissau | [data/maps/health centers](github.com/gabastil/odi-covid-19/tree/master/data/maps/health%20centers)
-Health Regions | Shapefile data for administrative health regions in Guinea-Bissau | [data/maps/health regions](github.com/gabastil/odi-covid-19/tree/master/data/maps/health%20regions)
-Regions | Shapefile data for regions and sectors in Guinea-Bissau | [data/maps/regions](github.com/gabastil/odi-covid-19/tree/master/data/maps/regions)
-Roads | Shapefile data for roads in Guinea-Bissau | [data/maps/roads](github.com/gabastil/odi-covid-19/tree/master/data/maps/roads)
-Schools | Shapefile data for schools in Guinea-Bissau | [data/maps/schools](github.com/gabastil/odi-covid-19/tree/master/data/maps/schools)
-Sectors | Shapefile data for sectors in Guinea-Bissau (Use Regions instead) | [data/maps/sectors](github.com/gabastil/odi-covid-19/tree/master/data/maps/sectors)
+Demographics | UN population count from 2000 to 2020 | [data/datasets/demographics](data/datasets/demographics)
+Health Centers | Shapefile data for health center locations in Guinea-Bissau | [data/maps/health centers](data/maps/health%20centers)
+Health Regions | Shapefile data for administrative health regions in Guinea-Bissau | [data/maps/health regions](data/maps/health%20regions)
+Regions | Shapefile data for regions and sectors in Guinea-Bissau | [data/maps/regions](data/maps/regions)
+Roads | Shapefile data for roads in Guinea-Bissau | [data/maps/roads](data/maps/roads)
+Schools | Shapefile data for schools in Guinea-Bissau | [data/maps/schools](data/maps/schools)
+Sectors | Shapefile data for sectors in Guinea-Bissau (Use Regions instead) | [data/maps/sectors](data/maps/sectors)
 
 
 
