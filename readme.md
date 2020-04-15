@@ -70,7 +70,7 @@ Data dictionaries for each data file in the [inventory of data](#inventory-of-da
 
 Final visualizations are made in `jupyter` and published as interactive pages by the `nbinteract` package. Both were developed in the Python programming language.
 
-You can directly access the current dashboard at [https://gabastil.github.io/odi-covid-19](./docs/index.html).
+You can directly access the current dashboard at [https://gabastil.github.io/odi-covid-19](https://gabastil.github.io/odi-covid-19/).
 
 <a id='requirements-files'></a>
 #### Requirements Files
