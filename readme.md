@@ -1,6 +1,8 @@
 # COVID-19 Data Visualization Repository for ODI
 Glenn Abastillas | April 7, 2020 | Description of this Repository
 
+Data visualizations for Guinea-Bissau's Ministry of Public Health through the [Overseas Development Insitute](https://www.odi.org/).
+
 Contents
   * [End-User Files](#end-user-files)
     * [Data visualization files](#data-visualization-files)
