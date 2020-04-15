@@ -17,7 +17,7 @@ Contents
 <a id='end-user'></a>
 ## End-User Files
 
-The dashboard is directly accessible via [https://gabastil.github.io/odi-covid-19](./docs/index.html). Alternatively, data products intended for end-user usage are located in the `docs` folder.
+The dashboard is directly accessible via [https://gabastil.github.io/odi-covid-19](https://gabastil.github.io/odi-covid-19). Alternatively, data products intended for end-user usage are located in the `docs` folder.
 
 For example, the index page for the dashboard is located here:
   1. [./docs/index.html](./docs/index.html)
