@@ -1,5 +1,5 @@
 # COVID-19 Data Visualization Repository for ODI
-Glenn Abastillas | April 7, 2020 | Description of this Repository
+Go to: [Visualization](https://gabastil.github.io/odi-covid-19) | [Datasets](data/datasets/) | [Map Data](data/maps/) | Versão em Português (a ser publicado)
 
 Data visualizations for Guinea-Bissau's Ministry of Public Health through the [Overseas Development Insitute (ODI)](https://www.odi.org/).
 
