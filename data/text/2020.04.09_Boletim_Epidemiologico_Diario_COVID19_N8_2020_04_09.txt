@@ -1,0 +1,383 @@
+PÁGINA NO DOCUMENTO ORIGINAL : 0
+
+REPÚBLICA DA Q GUINÉ-BISSAU
+Ministério da Saúde Pública
+
+(Centra de Operações de Emergencia em Samée da Guine Bisau
+
+ 
+
+ 
+
+GUINÉ-BISSAU BOLETIM EPIDEMIOLÓGICO Nº8
+COVID-—19
+
+ 
+
+GUINÉ-BISSAU - BOLETIM EPIDEMIOLÓGICO Nº7
+Doença Pelo Coronavírus 2019 (COVID-19)
+
+DESTAQUES
+
+e Conforme dados da Organização Mundial
+da Saúde, a nível mundial já se
+confirmaram 1. 288,961 casos de COVID-
+19 e 70,595 óbitos. Sendo que para
+a região africana, até o dia 8/04/2020
+foram confirmados 7.647 casos de COVID-
+19 e 32 novos óbitos totalizando 326.
+
+e Os dois primeiros casos confirmados na
+Guiné-Bissau foram anunciados no dia
+24/03/2020. Neste momento, temos
+o total de 4 casos importados, 2 sob
+investigação (cadeia de transmissão) e 27
+casos de transmissão local.
+
+e OCentrode Operações de Emergências de
+Saúde (COES), foi atividado desde
+Fevereiro de 2020 e tem vindo a garantir
+coordenação nacional de
+prevenção/resposta a epidemia.
+PÁGINA NO DOCUMENTO ORIGINAL : 1
+
+CASOS OPERACIONAIS
+Definições
+1. CASO SUSPEITO DE DOENÇA PELO CORONAVÍRUS (COVID-19)
+
+e Situação 1- VIAJANTE: pessoa que, nos últimos 14 dias, retornou de viagem
+internacional de qualquer país E apresente:
+o Febre OU
+o Pelomenos um dos sinais ou sintomas respiratórios (tosse, dificuldade para
+respirar, produção de escarro, congestão nasal ou conjuntival, dificuldade
+para deglutir, dor de garganta, coriza, saturação 02 <95%, sinais de cianose,
+batimento de asa de nariz, tiragem intercostal e dispneia): OU
+
+e Situação2- CONTACTO PRÓXIMO: pessoa que, nos últimos 14 dias, teve contacto
+próximo de caso suspeito ou confirmado para COVID-19 E apresente:
+o Febre OU
+o Pelomenos um dos sinais ou sintomas respiratórios (tosse, dificuldade para
+respirar, produção de escarro, congestão nasal ou conjuntival, dificuldade
+para deglutir, dor de garganta, coriza, saturação 02 <95%, sinais de cianose,
+batimento de asa de nariz, tiragem intercostal e dispneia).
+
+2. CASO PROVÁVEL DE DOENÇA PELO CORONAVÍRUS (COVID-19)
+
+e Situação3 - CONTACTO domiciliar: pessoa que, nos últimos 14 dias, resida ou
+trabalhe no domicílio de um caso suspeito ou confirmado para COVID-19 E
+apresente:
+
+o Febre OU
+
+o Pelomenos um dos sinais ou sintomas respiratórios (tosse, dificuldade para
+respirar, produção de escarro, congestão nasal ou conjuntival, dificuldade
+para deglutir, dor de garganta, coriza, saturação 02 <95%, sinais de cianose,
+batimento de asa de nariz, tiragem intercostal e dispneia) OU
+
+o Outros sinais e sintomas inespecíficos como: fadiga, mialgia/artralgia, dor de
+cabeça, calafrios, gânglios linfáticos aumentados, diarreia, náusea, vômito,
+desidratação e inapetência.
+
+3. CASO CONFIRMADO DE DOENÇA PELO CORONAVÍRUS (COVID-19)
+LABORATORIAL: caso suspeito ou provável com resultado positivo em RT-PCR em
+tempo real, pelo protocolo Charité.
+
+2
+
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 2
+
+4. CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS (COVID-19)
+Caso que se enquadre na definição de suspeito E apresente resultado laboratorial negativo
+para SARS-CoV2 OU confirmação laboratorial para outro agente etiológico.
+
+DEFINIÇÕES E OBSERVAÇÕES
+e FEBRE:
+
+o Considera-se febre a temperatura acima de 37,8º
+
+o Alerta-se que a febre pode não estar presente em alguns casos como por
+exemplo: em pacientes jovens, idosos, imunossuprimidos ou que em algumas
+situações possamter — utilizado medicamento antitérmico. Nessas situações,
+a avaliação clínica deve ser levada em consideração e a decisão deve ser
+registrada na ficha de notificação.
+
+o Considerar a febre relatada pelo paciente, mesmo não mensurada.
+
+3
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 3
+
+SISTEMA DE INFORMAÇÃO SANITÁRIA (SIS)
+
+Dados do COVID-19
+
+ 
+
+Notificação
+
+e Das 11 região
+sanitarias 3 ja
+comunicaram
+pelo menos um
+caso confirmado
+de COVID 19, a
+saber:
+
+SAB
+BIOMBO
+e CACHEU
+
+ 
+
+ 
+
+ 
+
+Doeça ou Evento COVID-19
+
+Foram notificados 3 novos casos de COVID-19.
+
+Foram recuperados 3 casos de COVID-19
+
+Eventos registados no CALL-CENTER: Foram
+registados 236 rumores dos quais 18 foram
+considerados casos suspeitos. Destes, 12 eram da
+região do SAB, 4 da região de Cacheu, 1 da região de
+Farim e 1 da região de Bijagós.
+
+ 
+
+ 
+
+Tabela 1 — Notificação COVID-19, 08.04.2020 (Dados Cumulativos)
+
+ 
+
+186 81
+
+ 
+
+ 
+
+ 
+
+36 3 0 0 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+4
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 4
+
+Tabela 02 - Gestão dos Contactos Relacionados aos Casos Confirmados de
+COVID-19, 08.04.2020 (Dados Cumulativos)
+
+ 
+
+36 106 106 100%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+Figura 01 - Distribuição Diária de Casos COVID-19 na Guiné-Bissau. Bissau, 2020.
+
+Evolução Diaria de casos de Covid-19, Guine-Bissau, 08/04/2020
+
+60
+
+40
+
+30
+
+Nombre de Cas
+
+20
+
+10
+
+o F E ' I F
+
+23- 24- 25 26 27 28 29 30 31- 1-Apr2-Apr 3-Apr 4-Apr 5-Apr 6-Apr 7-Apr 8-Apr
+Mar Mar Mar Mar Mar Mar Mar Mar Mar
+
+ 
+
+Periode
+MNCasos confirmados — WN Casos negativos - MN A espera de resultado de teste — == Casos Confirmados (Cumulativo)
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 5
+
+Figura 02. Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
+Conforme o Sexo e Faixa Etária. Bissau, 2020.
+
+Casos confirmados de Covid-19, por sexo e faixa-etadia, Guiné-Bissau 2020
+
+É..illL.
+
+o
+o
+
+..
+u”
+
+sos Confirmados de COVID-19
+n
+L
+õ
+
+Ca
+"
+
+ 
+
+0-4Anos 5-14 15-24 25-34 35-44 45 74 75-84 >= 85
+Anos Anos Anos Anos Anos Anos Anos Anos Anos
+Faixa Etaria
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+Figura 03 - Distribuição de Casos Confirmados de COVID -19 na Guiné-Bissau,
+conforme as Região Sanitárias. Bissau, 2020.
+
+Casos confirmados de Covid-19, por regioes sanitárias, Guiné-Bissau
+
+2020
+E -
+> o o > > E s so O: K) s
+E L o S E S P S S A
+T S ó*ºº S E PT O S P E
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 6
+
+Figura 04 - Apresentação Geográfica dos Casos Confirmados de COVID-19 na
+Guiné-Bissau. Bissau, 2020.
+
+ 
+
+ 
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 7
+
+Figura 05 - Distribuição de casos Confirmados de COVID-19 na Guiné-Bissau, por
+Bairros de Bissau, 2020.
+
+o
+
+Casos de COVID Confirmados por Bairro SAB (cumulativo)
+
+Praca
+
+ 
+
+Antula
+
+ 
+
+ 
+
+Bairro Internacional
+
+ 
+
+Cuntum Madina
+
+safim SMMMM————
+Bairro Militar |
+
+Bandim T
+
+Bor ..—
+
+Pluba NMMM
+
+Luanda Em
+
+Missira Em
+
+Reno Nm
+
+Tchada Rm
+
+o 1 2 3 a 5 6 7 s
+
+Figura 06 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
+conforme o sexo. 08.04.2020.
+
+% Casos confirmados de COVID - 19 por Sexo, Guiné-Bissau
+2020
+
+E Masculino
+E Feminino
+
+ 
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+8
+COES COVID-19
+O9 de Abril de 2020
+PÁGINA NO DOCUMENTO ORIGINAL : 8
+
+Figura 07 - Classificação da transmissão de Covid-19 na Guiné-Bissau. Bissau,
+2020.
+
+ 
+
+Classificação de Transmissão
+
+   
+
+W Transmissão local
+MWCasos Importados
+MN Desconhecido
+
+ 
+   
+
+Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
+
+Compilado e analisado por: Centro de Epidemiologia/INASA
+
+9
+
+COES COVID-19
+09 de Abril de 2020

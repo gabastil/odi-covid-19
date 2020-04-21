@@ -1,0 +1,329 @@
+PÁGINA NO DOCUMENTO ORIGINAL : 0
+
+Total de casos
+
+confirmados
+
+ 
+
+Total Óbitos
+
+ 
+
+  
+
+Testados
+
+Total de casos Novos Óbitos u
+confirmados
+
+Total de casos Nao 294 Casos u
+confirmados Recuperado
+
+Total de Novos casos .
+Casos Activos
+
+  
+    
+  
+ 
+ 
+
+ 
+  
+
+Região de Oio
+
+ 
+
+Região de
+Cacheu (7)
+
+  
+
+Ranião de Cabu
+COVID-19 - Casos
+
+confirmados
+Ultimas doze semanas
+
+  
+  
+
+Região de
+Bafata
+
+ 
+
+5-96(1)
+
+9.6 - 14.2 (O)
+14.2-18.8(0)
+18.8 - 23.4 (O)
+23.4-28(1)
+
+. Boundaries
+
+MN Região
+
+&6 OpenStreetiMtap, & CartoDB
+
+* : Dados até ao dia 13/04/2020
+4&*«
+REPÚBLICA D GUINÉ-BISSAU * S Nocaem! d Auvdo Mida *m“ V” GB*
+Ministé rii Saúde Pública
+
+en de Openções de Enengenca ex Sande te Gaime Bisex Actualizado a 14/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 1
+
+Gestão dos Contactos Relacionados aos Casos Confirmados de
+COVID-19, 12.04.2020 (Dados Cumulativos)
+
+Perc. de Contactos
+
+Total de Casos Confirmados Total de Contactos Total de Contactos em .
+Visitados
+
+Seguimento
+
+ 
+
+Figura O1 - Evolução Diária de Casos COVID-19 na Guiné-Bissau. Bissau, 12.04.2020.
+
+ 
+    
+
+60
+50
+43
+40
+o
+v
+o
+30 m
+2
+E
+220
+8 18
+5 ?
+.
+10 i
+. 1
+o M
+X X X X X X X X S S S S $ $ $ $ $ $$ $ $ $
+R R A A A A A A R R R R RR RR RR RR R RR RR SR
+,»u,çwb,íx&wo,,hg%x'»W'b&º;bâ%%&,ççzç
+Periode
+mNN Casos confirmados BEN Casos negativos ENm A espera de resultado de teste === Casos Confirmados (Cumulativo)
+
+ 
+
+* i Dados até ao dia 13/04/2020
+REPÚBLICA D GUINÉ-BISSAU '* lamam Nucaen! d Catá Mvtaa *m[s - GB*
+
+Ministério da Saúde Pública — Yam éetrenge t tneienda ex anh d Gm sa Actualizadoa — 14/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 2
+
+Figura 02 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau, Conforme
+Sexo e Faixa Etária. Bissau, 2020
+
+Casos confirmados de Covid-19, por sexo e faixa-etadia, Guiné-Bissau 2020
+12
+
+10
+
+W Sexo Masculino
+N Sexo Feminino
+o l l L L
+
+0O-4Anos 5-14 15-24 25-34 35-44 45-54 55-64 65-74 75-84 >=85
+Anos Anos Anos Anos Anos Anos Anos Anos Anos
+
+s
+
+Casos Confirmados de COVID-19
+NM ÕoÕ
+
+Faixa Etaria
+
+Figura 03 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
+Conforme as Regiões Sanitárias. Bissau, 11.04.2020.
+
+Casos confirmados de Covid-19, por regioes sanitárias, Guiné-Bissau 2020
+
+Bafatá Bijagos Biombo Bolama Cacheu Farim  Gabú Oio Quínara SAB Tombali
+
+* : Dados até ao dia 13/04/2020
+REPÚBLICA D GUINÉ-BISSAU * : innam Nocemn! do Caido Mic *m[s - GB*
+Ministéi Saúde Pública
+
+en de Openções de Enengenca ex Sande te Gaime Bisex Actualizado a 14/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 3
+
+Figura 06 - Distribuição de Casos Confirmados de COVID-19 na Região Sanitária do SAB,
+Conforme os Bairros. Bissau, 11.04.2020.
+
+Praca:> RE——
+
+Antula
+
+Bairro Internacional
+Cuntum Madina
+Bairro Militar
+Bandim
+
+Pluba
+
+Luanda
+
+Missira
+
+Reno
+
+Tchada
+
+o
+P
+M
+W
+s
+wn
+&
+
+7 8
+
+Figura 07 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
+conforme o Sexo. Bissau, 11.04.2020.
+
+ 
+
+% Casos confirmados de COVID - 19 por Sexo, Guiné-Bissau 2020
+
+m Masculino
+= Feminino
+
+ 
+
+ 
+
+Fonte:INASA (DHIS2)
+
+ 
+
+* : Dados até ao dia 13/04/2020
+o
+REPÚBLICA D; GUINÉ-BISSAU * maam Nc d tá Pa ,m[s ? GB*
+
+Ministério da Saúde Pública — Yam éetrenge t tneienda ex anh d Gm sa Actualizadoa — 14/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 4
+
+Figura O8 - Classificação da Transmissão de COVID-19 na Guiné-Bissau
+
+ 
+
+11.04.2020.
+
+. Bissau,
+
+ 
+
+Classificação de Transmissão
+
+W Transmissão local
+W Casos Importados
+
+m Desconhecido
+
+ 
+
+ 
+
+Casos Importados
+India (1)
+
+RDC(1)
+
+Senegal(2)
+
+Fonte:INASA (DHIS2)
+
+ 
+
+W GUINÉ-BISSAU
+Saúde Pública
+
+ 
+
+Cem te frençe te tnegenda em Send d Gúe Bca Actualizado a
+
+ímw Dados até ao dia 13/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 5
+
+Linha Direta COVID-19
+
+966 050 002 COES
+1919 MTN
+2020 ORANGE
+
+Total de chamadas u
+Recebidas
+
+Total de Eventos u
+Rastreados
+
+ 
+
+REPÚBLICA DW GUINÉ-BISSAU
+Ministério da Saúde Pública
+
+ 
+
+*(o[S GB* Dados até ao dia 13/04/2020
+
+en te bpenções de Emepenca em Sande te Gaime Bisax Actualizado a 14/04/2020
+PÁGINA NO DOCUMENTO ORIGINAL : 6
+
+Ficha
+Técnica:
+
+ME
+Malam Ba Camará INASA
+
+Marcelino Nablei
+
+ 
+
+ 
+
+Estátisticos
+
+Victor Pereira PNUD
+
+ 
+
+Carla Maria Cá Sá INASA
+
+ 
+
+Urcelina Paulo SAUDIGITUS
+
+Tombom Mané INASA
+Clementina Barbosa
+Informáticos
+INASA/COES (Pilar de Logística)
+
+ 
+
+ 
+
+Fonte:INASA (DHIS2)
+
+ 
+
+* | Dados até ao dia 13/04/2020
+GUINÉ-BISSAU (o[s ” GB
+Ministérii Saúde Pública
+
+ 
+
+en te bpenções de Emepenca em Sande te Gaime Bisax Actualizado a 14/04/2020
