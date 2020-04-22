@@ -1,28 +1,29 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 REPÚBLICA DA à GUINÉ-BISSAU
 
 Ministério da Saúde Pública
 
- 
+
 
 (OES - GB
 
 (Centro de Operções de Emergencia em Samée da Guine Bizau
 
- 
+
 
 GUINÉ-BISSAU - BOLETIM EPIDEMIOLOGICO Nº10
 
 COVID-19
 
- 
+
 
 DOENÇA PELO CORONAVIRUS 2019
 
 COVID-19
 
- 
+
 
 DESTAQUES
 
@@ -49,6 +50,8 @@ que foram rastreados pela equipa de
 resposta rápida (ERR).
 
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 SITUAÇÃO EPIDEMIOLÓGICA NO MUNDO
@@ -60,16 +63,16 @@ com 152.446 casos confirmados e 15.238 óbitos (Figura 1).
 
 Figura 1. Distribuição de casos de COVID-19 por país, segundo a OMS em 10.04.2020.
 
-  
-  
 
-  
+
+
+
 
 Countries, arcas or territories with COVID-19 casos reported in the lout 7 days kª VWiorld Mealth
 (Prom 04 April 20RO0, 10:00AM 16 1O April 2OTO, IO:00AM 1CET & Organization
 
-    
- 
+
+
 
 mT Gn eA tul eem
 m
@@ -95,6 +98,8 @@ três países sem óbitos registados.
 2
 COVID-19
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 SITUAÇÃO EPIDEMIOLÓGICA NA GUINÉ-BISSAU
@@ -110,11 +115,11 @@ SISTEMA DE INFORMAÇÃO SANITÁRIA (SIS)
 
 Dados Epidemiológicos
 
- 
 
- 
 
- 
+
+
+
 
 Notificação DOENÇA OU EVENTO COVID-19
 
@@ -133,27 +138,27 @@ comunicaram — pelo
 menos um  cCaso
 confirmado de COVID
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
 
 19, a saber: ; : ,
 rumores dos quais 10 foram considerados casos suspeitos. Destes,
@@ -164,17 +169,19 @@ e CACHEU
 COVID-19
 
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Tabela 01 - Notificação do COVID-19, 10.04.2020 (Dados
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Cumulativos)
 Dias
@@ -184,40 +191,40 @@ Realizados | Confirmados | Confirmados Caso
 Confirmado
 271 248 39 o o
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 Tabela 02- Gestão dos Contactos Relacionados aos Casos
 Confirmados de COVID-19, 10.04.2020 (Dados Cumulativos)
 
- 
 
- 
 
- 
+
+
+
 
 Total Casos Confirmados
 
@@ -229,33 +236,33 @@ Seguimento
 Perc. de Contactos
 Visitados
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 39
 
- 
+
 
 135
 
- 
+
 
 102
 
- 
+
 
 76%
 
- 
 
- 
 
- 
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -264,6 +271,8 @@ COVID-19
 4
 
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura O1 - Evolução Diária de Casos COVID-19 na Guiné-
@@ -280,7 +289,7 @@ Nombre de Cas
 W
 Õ
 
- 
+
 
 20
 10
@@ -297,6 +306,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COVID-19
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Figura 02 - Distribuição de Casos Confirmados de COVID-19 na
@@ -339,6 +350,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 COVID-19
 
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Figura 04 - Apresentação Geográfica dos Casos Confirmados de
@@ -347,16 +360,18 @@ COVID-19 na Guiné-Bissau. Bissau, 10.04.2020.
 CACHEU
 ()
 
- 
+
 
 20 km
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COVID-19
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 7
 
 Figura 06 - Distribuição de Casos Confirmados de COVID-19 na Região
@@ -397,19 +412,21 @@ Guiné-Bissau, conforme o Sexo. Bissau, 10.04.2020.
 m Masculino
 m= Feminino
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 8
 COVID-19
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 8
 
 Figura 08 - Classificação da Transmissão de COVID-19 na
 Guiné-Bissau. Bissau, 10.04.2020.
 
- 
+
 
 "
 
@@ -420,11 +437,11 @@ W Casos Importados
 
 mW Desconhecido
 
- 
 
- 
 
- 
+
+
+
 
 h
 
@@ -436,43 +453,45 @@ Compilado e analisado por: COES — Pilar de Vigilância
 
 COVID-19
 11 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 9
 
 Ficha Técnica:
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Nº Nome e Apelido Instituição
 
@@ -495,13 +514,13 @@ Informáticos
 12 | Elton Pereira SAUDIGITUS
 13 | Júlião Lima SAUDIGITUS
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 COVID-19
 

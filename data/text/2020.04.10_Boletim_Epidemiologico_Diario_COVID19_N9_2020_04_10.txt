@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 REPÚBLICA DA Q
@@ -10,29 +11,29 @@ Ministério da
 GUINÉ-BISSAU
 Saúde Pública
 
- 
 
- 
+
+
 
 GUINÉ-BISSAU - BOLETIM EPIDEMIOLÓGICO Nº9
 
 COVID-19
 
- 
+
 
 SITUAÇÃO EPIDEMIOLÓGICA NA GUINÉ-BISSAU
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Notificação
 
@@ -47,7 +48,7 @@ BIOMBO
 
 CACHEU
 
- 
+
 
 DOENÇA OU EVENTO COVID-19
 
@@ -57,59 +58,61 @@ Eventos registados no CALL-CENTER: Foram registados 177 rumores dos
 quais 4 foram considerados casos suspeitos. Destes, 3 eram da região do
 SAB e 1 da região de Cacheu.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 1
 
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 Tabela 01 — Notificação COVID-19, 09.04.2020 (Dados Cumulativos)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Total TGEc Total Casos | Novos Casos AA Novos Recupera
 : Testes : ; Obitos AA
@@ -118,40 +121,40 @@ Realizados
 230 207 38 2 o o 3
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
- 
+
 
 Tabela 02- Gestão dos Contactos Relacionados aos Casos Confirmados de COVID-
 19, 10.04.2020 (Dados Cumulativos)
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
 
 Total de Casos Total de Total dos Contactos em Perc. de Contactos
 Confirmados Contactos Seguimento Visitados
 38 106 106 100%
 
- 
 
- 
 
- 
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -160,6 +163,8 @@ COES COVID-19
 2
 
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 Figura 01 - Distribuição Diária de Casos COVID-19 na Guiné-Bissau. Bissau, 2020.
@@ -194,6 +199,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Figura 02 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
@@ -224,6 +231,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 4
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura 03 Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
@@ -242,19 +251,21 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 5
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Figura 04 - Apresentação Geográfica dos Casos Confirmados de COVID-19 na Guiné-
 Bissau. Bissau, 2020.
 
- 
 
-     
- 
-    
 
- 
- 
+
+
+
+
+
+
 
 L
 FeromBO, '
@@ -266,6 +277,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Figura 05 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau, por
@@ -306,6 +319,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 7
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 7
 
 Figura 06. Distribuição de casos confirmados de COVID-19 na Guiné-Bissau,
@@ -317,13 +332,15 @@ conforme sexo. 09.04.2020.
 E Masculino
 ErFeminino
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 8
 COES COVID-19
 10 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 8
 
 Figura 07 - Classificação da transmissão de COVID-19 na Guiné-Bissau. Bissau,
@@ -332,7 +349,7 @@ Figura 07 - Classificação da transmissão de COVID-19 na Guiné-Bissau. Bissau
 
 Classificação de Transmissão
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -344,49 +361,49 @@ M Desconhecido
 
 Compilado e analisado por: Centro de Epidemiologia/INASA
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Nº Nome e Apelido Instituição
 
@@ -409,7 +426,7 @@ Informáticos
 12 | Elton Pereira SAUDIGITUS
 13 | Júlião Lima SAUDIGITUS
 
- 
+
 
 COES COVID-19
 

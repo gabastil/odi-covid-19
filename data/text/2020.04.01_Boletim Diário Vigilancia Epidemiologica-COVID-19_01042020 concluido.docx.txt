@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 *
@@ -5,13 +6,13 @@ PÁGINA NO DOCUMENTO ORIGINAL : 0
 REPÚBLICA DA GUINÉ-BISSAU
 Ministério da Saúde Pública
 
- 
+
 
 (OES - GB
 
 (entn de Operações de Emergencia em Sande de Guine Bisau
 
- 
+
 
 GUINÉ-BISSAU - VIGILÂNCIA EPIDEMIOLOGICA
 
@@ -19,9 +20,9 @@ DIÁRIA
 
 OI de Abril de 2020
 
- 
 
- 
+
+
 
 Notificação
 
@@ -30,9 +31,9 @@ notificações, foram feitas a
 partir das DRS por via
 telefonica.
 
- 
 
- 
+
+
 
 DOENÇA OU EVENTO COVID-19
 
@@ -45,7 +46,7 @@ Eventos registados no CALL-CENTER: Foram registados 21
 rumores suspeitos no SAB, 1 na região de Oio e regiao de Cacheu
 2.
 
- 
+
 
 Tabela 1 — Notificação COVID-19, 01.04.2020
 
@@ -58,9 +59,11 @@ Novos ?
 Casos Óbitos gg?;gª dºÇZE?º
 Contirmados confirmado
 
- 
+
 
 o e p e o
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 oºp/eº;»& $S 6*;»
@@ -88,6 +91,8 @@ o
 
 Casos confirmados de Covid-19, por regioes sanitárias, Guiné-
 Bissau 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 Casos confirmados de Covid-19, por sexo e faixa-etadia, Guiné-Bissau 2020
@@ -100,13 +105,15 @@ o
 0-4 5-14 15-24 25-34 35-44 45-54 55-64 65-74 75-84 <=85
 Anos Anos Anos Anos Anos Anos Anos Anos Anos Anos
 
- 
+
 
 % Casos confirmados de COVID - 19 por Sexo, Guiné-Bissau
 2020
 
 m Masculino
 m Feminino
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Classificação de Transmissão
@@ -115,9 +122,9 @@ W Transmissão local
 
 W Casos Importados
 
- 
 
- 
+
+
 
 Compilado e analisado por: Centro de Epidemiologia/INASA.
 

@@ -1,24 +1,25 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 REPÚBLICA DA ê GUINÉ-BISSAU
 
 Ministério da Saúde Pública
 
- 
+
 
 (OES - GB
 
 (Centra de Operções de Emergencia em Samáe da Guine Busau
 
- 
+
 
 GUINÉ-BISSAU - BOLETIM EPIDEMIOLÓGICO Nº%6
 
- 
+
 
 Doença pelo Coronavírus 2019 (COVID-19)
 
- 
+
 
 DESTAQUES
 
@@ -45,6 +46,8 @@ primeiros casos (importados) de Covid-19.
 COES COVID-19
 
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 SITUAÇÃO EPIDEMIOLÓGICA NO MUNDO
@@ -69,9 +72,9 @@ EE 0000
 Country, area or territory wih no cases
 reported in fhe last 7 doys
 
-    
 
- 
+
+
 
 Figura 2. Curva epidémica de casos confirmados de COVID-19 por data de notificação e região, segundo a OMS
 em 5/04/2020.
@@ -86,9 +89,9 @@ s0000 WHO region
 Atrica
 A
 
- 
 
- 
+
+
 
 $m Mediterranean
 40000
@@ -104,11 +107,11 @@ s.. otner
 
 10000
 
- 
+
 
 o D
 
- 
+
 
 3oDec O6Jan iaJan 20/an 27/an O3Fob — 10Feb  17Feb 24Feb O2Mar — 09Mar iéMar — 23Mar
 2019 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020
@@ -119,6 +122,8 @@ Date of roport
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 SITUAÇÃO EPIDEMIOLÓGICA NA ÁFRICA
@@ -133,37 +138,37 @@ Figura 3. Distribuição de casos de COVID-19 por país, segundo a plataforma Co
 
 EYU[IDI9 N COVD-tO contimed cases ncovinica)
 
-    
-  
-   
-   
-   
-   
-   
-    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 9436
 
- 
+
 
 SESSESESESEERÊSESSIIT ES
 
- 
+
 
 CAMEROON
 BURKINA = Browsedata || x clse | [)
@@ -190,21 +195,23 @@ M o P urgent needs to fight covidio
 
 [X o & suspected covic19 case
 
- 
 
- 
 
-  
+
+
+
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 SITUAÇÃO EPIDEMIOLÓGICA NA GUINÉ-BISSAU
 
- 
 
- 
+
+
 
 Notificação DOENÇA OU EVENTO COVID-19
 
@@ -220,13 +227,13 @@ notificações, foram feitas a
 partir das DRS por via
 telefónica.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Tabela 1 — Notificação COVID-19, 06.04.2020 (dados acumulativos)
 
@@ -235,7 +242,7 @@ Total de Novos út
 Total Suspeitos testes gg;?:rãªã%ª Casos Obitos gg;gª dºCZZ?º
 realizados Confirmados confirmado
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2
 
@@ -248,12 +255,14 @@ contactos Total de contactos em | Perc. de contactos
 
 Total Casos Confirmados seguimento visitados
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura 3 - Distribuição diária de casos Covid-19 na Guiné-Bissau. Bissau, 2020.
@@ -268,7 +277,7 @@ mm
 
 Nombre de Cas
 
- 
+
 
 S S
 º;ºxs %»Xºº
@@ -290,6 +299,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Figura 4 - Distribuição de casos confirmados de Covid-19 na Guiné-Bissau,
@@ -321,12 +332,14 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Figura 6 - Apresentação geográfica dos casos confirmados de covid-19 na Guiné-
 Bissau. Bissau, 2020
 
- 
+
 
 ASPrabis
 
@@ -347,6 +360,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 7
 
 Figura 7. Distribuição de casos confirmados de Covid-19 na Guiné-Bissau, por
@@ -389,6 +404,8 @@ COES COVID-19
 &
 
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 8
 
 Figura 7. Distribuição de casos confirmados de Covid-19 na Guiné-Bissau,
@@ -399,7 +416,7 @@ conforme sexo. Bissau, 2020.
 m Masculino
 m Feminino
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -413,7 +430,7 @@ N Casos Importados
 
 mW Desconhecido
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -421,6 +438,8 @@ Compilado e analisado por: Centro de Epidemiologia e Saúde Comunitária (CESC/P
 
 COES COVID-19
 07 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 9
 
 COES COVID-19

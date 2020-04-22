@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 (OES - GB
@@ -8,14 +9,14 @@ REPÚBLICA DA à GUINÉ-BISSAU
 
 Ministério da Saúde Pública
 
- 
 
- 
+
+
 
 GUINÉ-BISSAU - BOLETIM EPIDEMIOLOGICO Nº12
 COVID-19
 
- 
+
 
 DOENÇA PELO CORONAVIRUS 2019
 
@@ -29,10 +30,12 @@ aregião africana, até odia 12/04/2020
 foram confirmados 9.728 casos de COVID-
 19 e 444 óbitos.
 
- 
+
 
 COES COVID-19
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 SITUAÇÃO EPIDEMIOLÓGICA NO MUNDO
@@ -45,14 +48,14 @@ Figura 1. Distribuição de casos de COVID-19 por país, segundo a OMS em 12.04.
 Countries, areas or territories with COVID-19 cases reported in the last 7 days World Health
 (From 06 April 2020, 10:00AM to 12 April 2020, 10:00AM (CET)) Organization
 
- 
+
 
 É " cosos reported in the last 7 days
 1-100
 101 - 1000
 
- 
- 
+
+
 
 EE 1001 - 10000
 S E ES sA W s EE 1000 - 50000
@@ -67,9 +70,9 @@ ve been aggregered for uisualizanon pupeses.
 
 hevebe
 
- 
 
- 
+
+
 
 SITUAÇÃO EPIDEMIOLÓGICA NA ÁFRICA
 
@@ -85,6 +88,8 @@ e São Tomé e Príncipe com 4, ambos países sem óbitos registados.
 
 COES COVID-19
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 SITUAÇÃO EPIDEMIOLÓGICA NA GUINÉ-BISSAU
@@ -98,11 +103,11 @@ SISTEMA DE INFORMAÇÃO SANITÁRIA (SIS)
 
 Dados Epidemiológicos
 
- 
 
- 
 
- 
+
+
+
 
 Notificação
 
@@ -115,17 +120,17 @@ e SAB
 e BIOMBO
 e CACHEU
 
- 
 
- 
+
+
 
 e Das 11  regiões
 
 confirmado de COVID
 
- 
 
- 
+
+
 
 DOENÇA OU EVENTO COVID-19
 
@@ -140,53 +145,53 @@ Eventos registados no CALL-CENTER: Foram registados 167
 rumores dos quais 10 foram considerados casos suspeitos, sendo
 todos eles pertencentes á Região Sanitária do SAB.
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
 
 Tabela O1 — Notificação do COVID-19, 12.04.2020 (Dados
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Cumulativos)
 Dias Depois
@@ -202,16 +207,18 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 COES COVID-19
 
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Tabela 02- Gestão dos Contactos Relacionados aos Casos
 Confirmados de COVID-19, 12.04.2020 (Dados Cumulativos)
 
- 
 
- 
 
- 
+
+
+
 
 Total Casos Confirmados
 
@@ -223,39 +230,39 @@ Seguimento
 Perc. de Contactos
 Visitados
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 40
 
- 
+
 
 133
 
- 
+
 
 107
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 80%
 
- 
 
- 
 
- 
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -292,7 +299,7 @@ EN Casos confirmados
 
 NEEN Casos negativos
 
- 
+
 
 A espera de resultado de teste — ======Casos Confirmados (Cumulativo)
 
@@ -303,6 +310,8 @@ COES COVID-19
 4
 
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura 02 - Distribuição de Casos Confirmados de COVID-19 na
@@ -333,6 +342,8 @@ Bissau, Conforme as Regiões Sanitárias. Bissau, 12.04.2020.
 
 COES COVID-19
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
@@ -345,7 +356,7 @@ ZIGUINCHOR
 CACHEU
 (4)
 
- 
+
 
 ln em 1
 
@@ -385,6 +396,8 @@ o
 
 COES COVID-19
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
@@ -395,7 +408,7 @@ Guiné-Bissau, conforme o Sexo. Bissau, 12.04.2020.
 m Masculino
 m= Feminino
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -407,53 +420,55 @@ W Casos Importados
 
 mW Desconhecido
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 13 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 7
 
 Ficha Técnica:
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Nº Nome e Apelido Instituição
 Epidemiologistas
@@ -473,9 +488,9 @@ Informáticos
 12 | Elton Pereira SAUDIGITUS
 13 | Júlião Lima SAUDIGITUS
 
- 
 
- 
+
+
 
 COES COVID-19
 

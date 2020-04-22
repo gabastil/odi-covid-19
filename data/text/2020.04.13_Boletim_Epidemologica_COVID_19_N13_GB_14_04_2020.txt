@@ -1,16 +1,17 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 Total de casos
 
 confirmados
 
- 
+
 
 Total Óbitos
 
- 
 
-  
+
+
 
 Testados
 
@@ -23,23 +24,23 @@ confirmados Recuperado
 Total de Novos casos .
 Casos Activos
 
-  
-    
-  
- 
- 
 
- 
-  
+
+
+
+
+
+
+
 
 Região de Oio
 
- 
+
 
 Região de
 Cacheu (7)
 
-  
+
 
 Ranião de Cabu
 COVID-19 - Casos
@@ -47,13 +48,13 @@ COVID-19 - Casos
 confirmados
 Ultimas doze semanas
 
-  
-  
+
+
 
 Região de
 Bafata
 
- 
+
 
 5-96(1)
 
@@ -74,6 +75,8 @@ REPÚBLICA D GUINÉ-BISSAU * S Nocaem! d Auvdo Mida *m“ V” GB*
 Ministé rii Saúde Pública
 
 en de Openções de Enengenca ex Sande te Gaime Bisex Actualizado a 14/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 Gestão dos Contactos Relacionados aos Casos Confirmados de
@@ -86,12 +89,12 @@ Visitados
 
 Seguimento
 
- 
+
 
 Figura O1 - Evolução Diária de Casos COVID-19 na Guiné-Bissau. Bissau, 12.04.2020.
 
- 
-    
+
+
 
 60
 50
@@ -116,12 +119,14 @@ R R A A A A A A R R R R RR RR RR RR R RR RR SR
 Periode
 mNN Casos confirmados BEN Casos negativos ENm A espera de resultado de teste === Casos Confirmados (Cumulativo)
 
- 
+
 
 * i Dados até ao dia 13/04/2020
 REPÚBLICA D GUINÉ-BISSAU '* lamam Nucaen! d Catá Mvtaa *m[s - GB*
 
 Ministério da Saúde Pública — Yam éetrenge t tneienda ex anh d Gm sa Actualizadoa — 14/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 Figura 02 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau, Conforme
@@ -158,6 +163,8 @@ REPÚBLICA D GUINÉ-BISSAU * : innam Nocemn! do Caido Mic *m[s - GB*
 Ministéi Saúde Pública
 
 en de Openções de Enengenca ex Sande te Gaime Bisex Actualizado a 14/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Figura 06 - Distribuição de Casos Confirmados de COVID-19 na Região Sanitária do SAB,
@@ -195,37 +202,39 @@ wn
 Figura 07 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
 conforme o Sexo. Bissau, 11.04.2020.
 
- 
+
 
 % Casos confirmados de COVID - 19 por Sexo, Guiné-Bissau 2020
 
 m Masculino
 = Feminino
 
- 
 
- 
+
+
 
 Fonte:INASA (DHIS2)
 
- 
+
 
 * : Dados até ao dia 13/04/2020
 o
 REPÚBLICA D; GUINÉ-BISSAU * maam Nc d tá Pa ,m[s ? GB*
 
 Ministério da Saúde Pública — Yam éetrenge t tneienda ex anh d Gm sa Actualizadoa — 14/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura O8 - Classificação da Transmissão de COVID-19 na Guiné-Bissau
 
- 
+
 
 11.04.2020.
 
 . Bissau,
 
- 
+
 
 Classificação de Transmissão
 
@@ -234,9 +243,9 @@ W Casos Importados
 
 m Desconhecido
 
- 
 
- 
+
+
 
 Casos Importados
 India (1)
@@ -247,16 +256,18 @@ Senegal(2)
 
 Fonte:INASA (DHIS2)
 
- 
+
 
 W GUINÉ-BISSAU
 Saúde Pública
 
- 
+
 
 Cem te frençe te tnegenda em Send d Gúe Bca Actualizado a
 
 ímw Dados até ao dia 13/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Linha Direta COVID-19
@@ -271,16 +282,18 @@ Recebidas
 Total de Eventos u
 Rastreados
 
- 
+
 
 REPÚBLICA DW GUINÉ-BISSAU
 Ministério da Saúde Pública
 
- 
+
 
 *(o[S GB* Dados até ao dia 13/04/2020
 
 en te bpenções de Emepenca em Sande te Gaime Bisax Actualizado a 14/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Ficha
@@ -291,19 +304,19 @@ Malam Ba Camará INASA
 
 Marcelino Nablei
 
- 
 
- 
+
+
 
 Estátisticos
 
 Victor Pereira PNUD
 
- 
+
 
 Carla Maria Cá Sá INASA
 
- 
+
 
 Urcelina Paulo SAUDIGITUS
 
@@ -312,18 +325,18 @@ Clementina Barbosa
 Informáticos
 INASA/COES (Pilar de Logística)
 
- 
 
- 
+
+
 
 Fonte:INASA (DHIS2)
 
- 
+
 
 * | Dados até ao dia 13/04/2020
 GUINÉ-BISSAU (o[s ” GB
 Ministérii Saúde Pública
 
- 
+
 
 en te bpenções de Emepenca em Sande te Gaime Bisax Actualizado a 14/04/2020

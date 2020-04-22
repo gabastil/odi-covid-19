@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 Total de casos
@@ -5,18 +6,18 @@ Testados
 
 Total de casos
 
- 
 
-    
-   
+
+
+
 
 Total Óbitos
 
 Novos Óbitos
 
- 
 
- 
+
+
 
 confirmados
 Total de casos Nao T Casos
@@ -35,7 +36,7 @@ Cgcheu (1 O)
 : Região de Renião de Aahu
 Bafata COVID-19 - Casos
 
- 
+
 
 2A 0
 
@@ -50,7 +51,7 @@ Ministérii Saúde Pública
 
 Centn &e Operaçes de Emergence em Sande e Game Bseu
 
- 
+
 
 confirmados
 Ultimas doze semanas
@@ -70,14 +71,16 @@ MN Região
 Dados até ao dia 14/04/2020
 
 Actualizadoa — 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 Gestão dos Contactos Relacionados aos Casos Confirmados de
 COVID-19, 14.04.2020 (Dados Cumulativos)
 
- 
 
- 
+
+
 
 Perc. de Contactos
 
@@ -86,21 +89,21 @@ Visitados
 
 Seguimento
 
- 
+
 
 46 135 114 84%
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Figura O1 - Evolução Diária de Casos COVID-19 na Guiné-Bissau. Bissau, 14.04.2020.
 
@@ -111,7 +114,7 @@ o o Õo o
 N
 o
 
- 
+
 
 10
 o H : j
@@ -121,9 +124,9 @@ m“'ªx 'iº'à níºxxx 'Ó'à mºªx“ 'ÓQ %Qx“ "»S”Q vY S FS SS ZA
 Periode
 ES Casos confirmados EN Casos negativos Em A espera de resultado de teste Casos Confirmados (Cumulativo)
 
- 
 
- 
+
+
 
 * m Dados até ao dia 14/04/2020
 o
@@ -131,6 +134,8 @@ REPÚBLICA D GUINÉ-BISSAU '* ta ocind ds o Fi *m[s ? GB*
 Saúde Pública
 
 Ministéri. —— em te bpenpe te incperia cx fanl d Gáe bisoa Actualizadoa — 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 Figura 02 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau, Conforme
@@ -147,19 +152,19 @@ o
 
 Casos confirmados de Covid-19, por sexo e faixa-etadia, Guiné-Bissau 2020
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
 
 N Sexo Masculino
 . I N Sexo Feminino
@@ -172,18 +177,18 @@ Faixa Etaria
 Figura 03 -Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
 conforme o Sexo. 14.04.2020.
 
- 
 
- 
+
+
 
 % Casos confirmados de COVID - 19 por Sexo, Guiné-Bissau 2020
 
 m= Masculino
 = Feminino
 
- 
 
- 
+
+
 
 * : Dados até ao dia 14/04/2020
 o
@@ -192,6 +197,8 @@ REPÚBLICA D GUINÉ-BISSAU - S Nocaem! d Suvdo Roida ,mB - G B*
 Ministé
 
 GSaúde Pública SAA Actualizadoa — 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Figura 06 - Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau, Conforme
@@ -237,12 +244,14 @@ Casos confirmados de Covid-19, por regioes sanitárias, Guiné-Bissau 2020
 REPÚBLICA D GUINÉ-BISSAU * S Jnanaa Noceem! de fudo Pioa ,m[s - GB*
 
 Ministério da Saúde Pública Yem te trenge t tneienda ex anh d Gim iz Actualizadoa — 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Figura O8 - Classificação da Transmissão de COVID-19 na Guiné-Bissau. Bissau,
 14.04.2020.
 
- 
+
 
 Classificação de Transmissão
 
@@ -251,9 +260,9 @@ W Casos Importados
 
 m Desconhecido
 
- 
 
- 
+
+
 
 Casos Importados
 India (1)
@@ -264,16 +273,18 @@ Senegal(2)
 
 Fonte:INASA (DHIS2)
 
- 
+
 
 REPÚBLICA DW GUINÉ-BISSAU
 Ministé Saúde Pública
 
- 
+
 
 (o B Dados até ao dia 14/04/2020
 
 Cem te fpençes te tmeienda em enh d Gúe ta Actualizadoa — 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Linha Direta COVID-19
@@ -290,16 +301,18 @@ Recebidas
 Total de Eventos
 Rastreados
 
- 
+
 
 REPÚBLICA DW GUINÉ-BISSAU
 Ministério da Saúde Pública
 
- 
+
 
 *(o[S GB* Dados até ao dia 14/04/2020
 
 en de Openções de Emergenca em Seme te Gaine Bisex Actualizado a 15/04/2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Ficha Técnica:
@@ -317,11 +330,11 @@ O5 | Marcelino Nablei
 
 -m
 
- 
+
 
 Fonte:INASA (DHIS2)
 
- 
+
 
 (o[s GB* Dados até ao dia 14/04/2020
 

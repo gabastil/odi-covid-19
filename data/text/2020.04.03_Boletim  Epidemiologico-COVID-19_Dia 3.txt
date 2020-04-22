@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 *
@@ -9,18 +10,18 @@ Ministério da Saúde Pública
 
 (entn de Operações de Emergencia em Sande de Guine Bisau
 
- 
 
- 
+
+
 
 GUINÉ-BISSAU - VIGILÂNCIA EPIDEMIOLOGICA
 COVID-19
 
 03 de Abril de 2020
 
- 
 
- 
+
+
 
 Notificação DOENÇA OU EVENTO COVID-19
 
@@ -38,13 +39,13 @@ e Eventos registados no CALL-CENTER: Foram registados 212
 rumores dos quais 7 foram considerados casos suspeitos. Destes 7
 casos suspeitos, 6 eram da região do SAB, 1 da região de Bafatá.
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Tabela 1 — Notificação COVID-19, 02.04.2020
 
@@ -53,6 +54,8 @@ Total de Novos P
 , Total Casos A Novos do último
 Total Suspeitos te;tes Confirmados Cfasos Obitos Óbitos caso
 realizados Confirmados confirmado
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 Figura 1. Distribuição diária de casos Covid-19 na Guiné-Bissau.
@@ -68,7 +71,7 @@ Nombre de Cas
 p
 o
 
- 
+
 
 & s S É S
 a a a o o S S S
@@ -91,12 +94,14 @@ conforme sexo e faixa etária.
 Casos confirmados de Covid-19, por sexo e faixa-etária, Guiné-
 Bissau 2020
 
- 
+
 
 0-4 ANOS 5-14 ANOS 15-24 25-34 35-44 45-54 55-64 65 -74 75-84 <=85ANOS
 ANOS ANOS ANOS ANOS ANOS ANOS ANOS
 
 mN Sexo Masculino — M Sexo Feminino
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 Figura 3. Distribuição de casos confirmados de Covid-19 na Guiné-Bissau,
@@ -132,9 +137,11 @@ L
 
 5.2-6(1)
 
- 
+
 
 & OpenStreetitap, O CartoDB
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 Figura 5. Distribuição de casos confirmado de Covid-19 na Guiné-Bissau,
@@ -146,7 +153,7 @@ conforme sexo.
 m Masculino
 m= Feminino
 
- 
+
 
 Figura 6. Classificação da transmissão de Covid-19 na Guiné-Bissau.
 
@@ -157,6 +164,6 @@ mN Casos Importados
 
 W Desconhecido
 
- 
+
 
 Compilado e analisado por: Centro de Epidemiologia/INASA

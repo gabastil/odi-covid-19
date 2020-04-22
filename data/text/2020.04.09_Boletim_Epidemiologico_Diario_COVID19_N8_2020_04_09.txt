@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 0
 
 REPÚBLICA DA Q GUINÉ-BISSAU
@@ -5,14 +6,14 @@ Ministério da Saúde Pública
 
 (Centra de Operações de Emergencia em Samée da Guine Bisau
 
- 
 
- 
+
+
 
 GUINÉ-BISSAU BOLETIM EPIDEMIOLÓGICO Nº8
 COVID-—19
 
- 
+
 
 GUINÉ-BISSAU - BOLETIM EPIDEMIOLÓGICO Nº7
 Doença Pelo Coronavírus 2019 (COVID-19)
@@ -39,6 +40,8 @@ Saúde (COES), foi atividado desde
 Fevereiro de 2020 e tem vindo a garantir
 coordenação nacional de
 prevenção/resposta a epidemia.
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 1
 
 CASOS OPERACIONAIS
@@ -86,6 +89,8 @@ tempo real, pelo protocolo Charité.
 
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 2
 
 4. CASO DESCARTADO DE DOENÇA PELO CORONAVÍRUS (COVID-19)
@@ -108,13 +113,15 @@ o Considerar a febre relatada pelo paciente, mesmo não mensurada.
 3
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 3
 
 SISTEMA DE INFORMAÇÃO SANITÁRIA (SIS)
 
 Dados do COVID-19
 
- 
+
 
 Notificação
 
@@ -130,11 +137,11 @@ SAB
 BIOMBO
 e CACHEU
 
- 
 
- 
 
- 
+
+
+
 
 Doeça ou Evento COVID-19
 
@@ -148,61 +155,63 @@ considerados casos suspeitos. Destes, 12 eram da
 região do SAB, 4 da região de Cacheu, 1 da região de
 Farim e 1 da região de Bijagós.
 
- 
 
- 
+
+
 
 Tabela 1 — Notificação COVID-19, 08.04.2020 (Dados Cumulativos)
 
- 
+
 
 186 81
 
- 
 
- 
 
- 
+
+
+
 
 36 3 0 0 3
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 4
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 4
 
 Tabela 02 - Gestão dos Contactos Relacionados aos Casos Confirmados de
 COVID-19, 08.04.2020 (Dados Cumulativos)
 
- 
+
 
 36 106 106 100%
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
@@ -227,7 +236,7 @@ o F E ' I F
 23- 24- 25 26 27 28 29 30 31- 1-Apr2-Apr 3-Apr 4-Apr 5-Apr 6-Apr 7-Apr 8-Apr
 Mar Mar Mar Mar Mar Mar Mar Mar Mar
 
- 
+
 
 Periode
 MNCasos confirmados — WN Casos negativos - MN A espera de resultado de teste — == Casos Confirmados (Cumulativo)
@@ -236,6 +245,8 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 5
 
 Figura 02. Distribuição de Casos Confirmados de COVID-19 na Guiné-Bissau,
@@ -259,7 +270,7 @@ L
 Ca
 "
 
- 
+
 
 0-4Anos 5-14 15-24 25-34 35-44 45 74 75-84 >= 85
 Anos Anos Anos Anos Anos Anos Anos Anos Anos
@@ -282,19 +293,23 @@ Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 6
 
 Figura 04 - Apresentação Geográfica dos Casos Confirmados de COVID-19 na
 Guiné-Bissau. Bissau, 2020.
 
- 
 
- 
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 7
 
 Figura 05 - Distribuição de casos Confirmados de COVID-19 na Guiné-Bissau, por
@@ -306,17 +321,17 @@ Casos de COVID Confirmados por Bairro SAB (cumulativo)
 
 Praca
 
- 
+
 
 Antula
 
- 
 
- 
+
+
 
 Bairro Internacional
 
- 
+
 
 Cuntum Madina
 
@@ -348,30 +363,32 @@ conforme o sexo. 08.04.2020.
 E Masculino
 E Feminino
 
- 
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
 8
 COES COVID-19
 O9 de Abril de 2020
+
+--------------------------------------------------------------------------------
 PÁGINA NO DOCUMENTO ORIGINAL : 8
 
 Figura 07 - Classificação da transmissão de Covid-19 na Guiné-Bissau. Bissau,
 2020.
 
- 
+
 
 Classificação de Transmissão
 
-   
+
 
 W Transmissão local
 MWCasos Importados
 MN Desconhecido
 
- 
-   
+
+
 
 Fonte: Sistema Nacional de Informação Sanitária, DHIS2.
 
