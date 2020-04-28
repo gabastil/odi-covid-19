@@ -8,10 +8,10 @@ area_san |    Sanitary Area
 cds_mwaterid |    mWater ID
 energy_light_func |   How many of the lightbulbs works?
 energy_light_total |  How many lightbulbs are there in the center?
-energy_primsource   What is the primary source of energy for the center? (please enter type of system even if it does not work |)
+energy_primsource |  What is the primary source of energy for the center? (please enter type of system even if it does not work)
 energy_source_backup |    What is the backup source of energy for the center?
 energy_sys |  Does the center have an electrical system installed?
-handw_today_poc Are there functional hand hygiene stations available at the selected point of care on the day of the survey |?
+handw_today_poc | Are there functional hand hygiene stations available at the selected point of care on the day of the survey |?
 handw_today_toilet |  Are handwashing facilities with soap and water available at toilets on the day of the survey?
 hcf_name |    Name of Health Care Facility
 jmp_cln_prot |    Are cleaning protocols available?
@@ -57,7 +57,7 @@ solar - panel - installed |   Solar system : Panels - What year was it installed
 solar - panel - num | Solar system : Panels - How many panels/batteries are there?
 submitted_date |  Date Submitted to mWater
 toilet_hcap | Is there at least one usable improved toilet that meets the needs of people with reduced mobility?
-toilet_mhm  Is there at least one usable improved toilet designated for women and girls, which provides facilities to manage | menstrual hygiene needs?
+toilet_mhm | Is there at least one usable improved toilet designated for women and girls, which provides facilities to manage | menstrual hygiene needs?
 toilet_outpat |   Is there at least one usable improved toilet available for outpatients at the facility?
 toilet_staff |    Is there at least one usable improved toilet designated for staff?
 waste_3bins | Is waste safely segregated into at least three labelled bins in the consultation area?
