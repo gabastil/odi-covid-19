@@ -1,0 +1,222 @@
+﻿JMP WASH in HCF,Old Question Name
+deployment,Deployment
+enum,Enumerator
+status,Status
+code,Response Code
+drafted,Drafted On
+submitted on,Submitted On
+,Approval Level
+,IP Address
+cds_mwaterid,Nome do Centro de Saude 
+cds_type,Tipo de Centro de Saude
+cds_sanreg,Favor Escolha a região Sanitaria
+cds_sanarea,Area sanitaria
+cds_sanarea (other) - specify,Area sanitaria (Other (please specify)) - specify
+contact - 1 - name,pessoa de contacto: Contacto 1 - 
+contact - 1 - title,pessoa de contacto: Contacto 1 - Title
+contact - 1 - orng,pessoa de contacto: Contacto 1 - Telephone 1
+contact - 1 - mtn,pessoa de contacto: Contacto 1 - Telephone 2
+contact - 2 - name,pessoa de contacto: Contacto 2 - 
+contact - 2 - title,pessoa de contacto: Contacto 2 - Title
+contact - 2 - orng,pessoa de contacto: Contacto 2 - Telephone 1
+contact - 2 - mtn,pessoa de contacto: Contacto 2 - Telephone 2
+,pessoa de contacto (Don't Know)
+survey_date,Qual a data do inquerito?
+,Qual a data do inquerito? (Don't Know)
+,Which survey?
+,Which survey? (Don't Know)
+,"When you open a tap in the center, does water come out?"
+,"When you open a tap in the center, does water come out? (Other (please specify)) - specify"
+,"When you open a tap in the center, does water come out? (Don't Know)"
+,"When you flick a switch a switch in the center, does a light light up?"
+,"When you flick a switch a switch in the center, does a light light up? (Other (please specify)) - specify"
+,"When you flick a switch a switch in the center, does a light light up? (Don't Know)"
+staff - doc - all,Staffing of the health facility: Doctors - Total number of staff
+staff - doc - male,Staffing of the health facility: Doctors - Number of male staff
+staff - doc - fem,Staffing of the health facility: Doctors - Number of female staff
+staff - nurse - all,Staffing of the health facility: Nurses - Total number of staff
+staff - nurse - male,Staffing of the health facility: Nurses - Number of male staff
+staff - nurse - fem,Staffing of the health facility: Nurses - Number of female staff
+staff - midwife - all,Staffing of the health facility: Midwives - Total number of staff
+staff - midwife - male,Staffing of the health facility: Midwives - Number of male staff
+staff - midwife - fem,Staffing of the health facility: Midwives - Number of female staff
+staff - labtech - all,Staffing of the health facility: Lab technicians - Total number of staff
+staff - labtech - male,Staffing of the health facility: Lab technicians - Number of male staff
+staff - labtech - fem,Staffing of the health facility: Lab technicians - Number of female staff
+staff - pharma - all,Staffing of the health facility: Pharmacists - Total number of staff
+staff - pharma - male,Staffing of the health facility: Pharmacists - Number of male staff
+staff - pharma - fem,Staffing of the health facility: Pharmacists - Number of female staff
+staff - service - all,Staffing of the health facility: Service staff - Total number of staff
+staff - service - male,Staffing of the health facility: Service staff - Number of male staff
+staff - service - fem,Staffing of the health facility: Service staff - Number of female staff
+staff - driver - all,Staffing of the health facility: Drivers - Total number of staff
+staff - driver - male,Staffing of the health facility: Drivers - Number of male staff
+staff - driver - fem,Staffing of the health facility: Drivers - Number of female staff
+staff - guard - all,Staffing of the health facility: Guards - Total number of staff
+staff - guard - male,Staffing of the health facility: Guards - Number of male staff
+staff - guard - fem,Staffing of the health facility: Guards - Number of female staff
+,Transport at the health facility: Bicycle - Number of transport at facility 
+,Transport at the health facility: Bicycle - Number of transport in working condition at facility 
+,Transport at the health facility: Bicycle - Name of project(s) providing transport (if any) 
+,Transport at the health facility: Car - Number of transport at facility 
+,Transport at the health facility: Car - Number of transport in working condition at facility 
+,Transport at the health facility: Car - Name of project(s) providing transport (if any) 
+,Transport at the health facility: Motorcycle - Number of transport at facility 
+,Transport at the health facility: Motorcycle - Number of transport in working condition at facility 
+,Transport at the health facility: Motorcycle - Name of project(s) providing transport (if any) 
+,Transport at the health facility: Three wheeled motorbike ambulance - Number of transport at facility 
+,Transport at the health facility: Three wheeled motorbike ambulance - Number of transport in working condition at facility 
+,Transport at the health facility: Three wheeled motorbike ambulance - Name of project(s) providing transport (if any) 
+,Transport at the health facility: Motor Ambulance - Number of transport at facility 
+,Transport at the health facility: Motor Ambulance - Number of transport in working condition at facility 
+,Transport at the health facility: Motor Ambulance - Name of project(s) providing transport (if any) 
+,What is the general impression of the health center?
+,What is the general impression of the health center? (Don't Know)
+,Which year was the centre built?
+,Which year was the centre built? (Don't Know)
+,Rehabilitations done at center: Electricity installation/rehab - Year of installation/rehabilitation
+,Rehabilitations done at center: Electricity installation/rehab - Name of organization supporting
+,Rehabilitations done at center: Electricity installation/rehab - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: New borehole - Year of installation/rehabilitation
+,Rehabilitations done at center: New borehole - Name of organization supporting
+,Rehabilitations done at center: New borehole - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Pump change - Year of installation/rehabilitation
+,Rehabilitations done at center: Pump change - Name of organization supporting
+,Rehabilitations done at center: Pump change - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: New watertank - Year of installation/rehabilitation
+,Rehabilitations done at center: New watertank - Name of organization supporting
+,Rehabilitations done at center: New watertank - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Water system rehab - Year of installation/rehabilitation
+,Rehabilitations done at center: Water system rehab - Name of organization supporting
+,Rehabilitations done at center: Water system rehab - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Incinerator  - Year of installation/rehabilitation
+,Rehabilitations done at center: Incinerator  - Name of organization supporting
+,Rehabilitations done at center: Incinerator  - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Latrines - Year of installation/rehabilitation
+,Rehabilitations done at center: Latrines - Name of organization supporting
+,Rehabilitations done at center: Latrines - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Structural rehabilitation - Year of installation/rehabilitation
+,Rehabilitations done at center: Structural rehabilitation - Name of organization supporting
+,Rehabilitations done at center: Structural rehabilitation - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Roof rehabilitation - Year of installation/rehabilitation
+,Rehabilitations done at center: Roof rehabilitation - Name of organization supporting
+,Rehabilitations done at center: Roof rehabilitation - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Painting exterior - Year of installation/rehabilitation
+,Rehabilitations done at center: Painting exterior - Name of organization supporting
+,Rehabilitations done at center: Painting exterior - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Painting interior - Year of installation/rehabilitation
+,Rehabilitations done at center: Painting interior - Name of organization supporting
+,Rehabilitations done at center: Painting interior - Name of organization supporting (in case not in dropdown on the left)
+,Rehabilitations done at center: Residences rehabilitation - Year of installation/rehabilitation
+,Rehabilitations done at center: Residences rehabilitation - Name of organization supporting
+,Rehabilitations done at center: Residences rehabilitation - Name of organization supporting (in case not in dropdown on the left)
+,What type of roof is the healthcenter equipped with?
+,What type of roof is the healthcenter equipped with? (Other (please specify)) - specify
+,What type of roof is the healthcenter equipped with? (Don't Know)
+,Is there a perimeter fence around the center?
+,Is there a perimeter fence around the center? (Other (please specify)) - specify
+,Is there a perimeter fence around the center? (Don't Know)
+,What is the internal division of the health center: Waiting room - Number of rooms
+,What is the internal division of the health center: Consulting room - Number of rooms
+,What is the internal division of the health center: Maternity ward - Number of rooms
+,What is the internal division of the health center: Laboratory - Number of rooms
+,What is the internal division of the health center: Stores - Number of rooms
+,Physical condition of center: Floor - Physical state of construction
+,Physical condition of center: Floor - Rehabilitation needs
+,Physical condition of center: Walls - Physical state of construction
+,Physical condition of center: Walls - Rehabilitation needs
+,Physical condition of center: Roof - Physical state of construction
+,Physical condition of center: Roof - Rehabilitation needs
+,Physical condition of center: Doors/Windows - Physical state of construction
+,Physical condition of center: Doors/Windows - Rehabilitation needs
+,Physical condition of center: Ceiling - Physical state of construction
+,Physical condition of center: Ceiling - Rehabilitation needs
+,Are there residencies for staff?
+,How many residencies for staff are there?
+,Physical condition of RESDIENCES: Floor - Physical state of construction
+,Physical condition of RESDIENCES: Floor - Rehabilitation needs
+,Physical condition of RESDIENCES: Walls - Physical state of construction
+,Physical condition of RESDIENCES: Walls - Rehabilitation needs
+,Physical condition of RESDIENCES: Roof - Physical state of construction
+,Physical condition of RESDIENCES: Roof - Rehabilitation needs
+,Physical condition of RESDIENCES: Doors/Windows - Physical state of construction
+,Physical condition of RESDIENCES: Doors/Windows - Rehabilitation needs
+,Physical condition of RESDIENCES: Ceiling - Physical state of construction
+,Physical condition of RESDIENCES: Ceiling - Rehabilitation needs
+,Water and electricity in the resdiences: Water in residences - Pipe/Wire system exist
+,Water and electricity in the resdiences: Water in residences - Water system/electrical system functional?
+,Water and electricity in the resdiences: Water in residences - Number of taps/lights in residence
+,Water and electricity in the resdiences: Water in residences - Number of taps/lights working
+,Water and electricity in the resdiences: Electricity in residences - Pipe/Wire system exist
+,Water and electricity in the resdiences: Electricity in residences - Water system/electrical system functional?
+,Water and electricity in the resdiences: Electricity in residences - Number of taps/lights in residence
+,Water and electricity in the resdiences: Electricity in residences - Number of taps/lights working
+,Does the center have an electrical system installed? 
+,Does the center have an electrical system installed?  (Other (please specify)) - specify
+,Does the center have an electrical system installed?  (Don't Know)
+,What is the primary source of energy for the center? (please enter type of system even if it does not work)
+,What is the primary source of energy for the center? (please enter type of system even if it does not work) (Other (please specify)) - specify
+,What is the primary source of energy for the center? (please enter type of system even if it does not work) (Don't Know)
+,Solar system : Panels - What year was it installed or replaced/repaired
+,Solar system : Panels - How many panels/batteries are there?
+,"Solar system : Panels - What size? (w for panels, Ah for batteries)"
+,Solar system : Batteries - What year was it installed or replaced/repaired
+,Solar system : Batteries - How many panels/batteries are there?
+,"Solar system : Batteries - What size? (w for panels, Ah for batteries)"
+,Solar system  (Don't Know)
+,What is the backup source of energy for the center? 
+,What is the backup source of energy for the center?  (Other (please specify)) - specify
+,What is the backup source of energy for the center?  (Don't Know)
+,How many lightbulbs are there in the center?
+,How many of the lightbulbs works?
+,Take some pictures of the center exterior and interior
+wp,Please find the water point:
+wp_jmptype,Type of water point
+watsystem,Does the center have a water system installed? 
+,Does the center have a water system installed?  (Other (please specify)) - specify
+,Does the center have a water system installed?  (Don't Know)
+watsystem_type,What is the type of water system is in the center?
+watsystem_type (other) - specify,What is the type of water system is in the center? (Other (please specify)) - specify
+,Is the water system working?
+,Is the water system working? (Other (please specify)) - specify
+,Is the water system working? (Don't Know)
+tank -   - cap,What type and size of water tank is in the center?: Watertank - Capacity of water tank (in cubic meters)
+tank -   - type,What type and size of water tank is in the center?: Watertank - What type of overhead reservoir?
+wp_dist,Where is the main water supply for the facility located?
+water_available_today, Is water available from the main supply at the time of the survey?
+taps_available,Are there taps available inside the center?
+taps_total,How many taps are existing within the center
+taps_func,How many taps are functioning within the center
+water_pics,Please take some photos of the water system
+toilet_pat_total,How many toilets of any kind are available for patients? 
+toilet_func,How many patient toilets are working? 
+toilet_staff_total,How many toilets of any kind are available exclusively for staff? 
+toilet_staff_func,How many staff toilets are working? 
+toilet_outpat,Is there at least one usable improved toilet available for outpatients at the facility?
+toilet_mhm,"Is there at least one usable improved toilet designated for women and girls, which provides facilities to manage menstrual hygiene needs?"
+toilet_staff,Is there at least one usable improved toilet designated for staff?
+toilet_hcap,Is there at least one usable improved toilet that meets the needs of people with reduced mobility?
+toilet_photo,Please take some photos of the latrines
+toilet_pat_reg,Is there a registry of cleaning at the patients toilet?
+toilet_pat_clean,Are the pateint toilets clean?
+toilet_pat_smell,Are the patient toilets smelling?
+toilet_pat_flies,Are there flies in the patient toilets?
+toilet_pat_light,Are the patient toilets lighted during the night?
+handw_today_poc,Are there functional hand hygiene stations available at the selected point of care on the day of the survey? 
+handw_today_toilet,Are handwashing facilities with soap and water available at toilets on the day of the survey?
+handw_consult_total,How many consultation rooms have a handwashing basin?
+handw_consult_func,How many consultation rooms have a handwashing basin that works?
+waste_3bins,Is waste safely segregated into at least three labelled bins in the consultation area? 
+waste_sharps,How does this facility usually treat/dispose of sharps waste? 
+waste_infect,How does this facility usually treat/dispose of infectious waste? 
+waste_incin_func,Is there an inicnerator at the center?
+waste_incin_func (other) - specify,Is there an inicnerator at the center? (Other (please specify)) - specify
+waste_incin_photo,Please take a photo of the incinerator
+clean_protocol,G-C 1 Are cleaning protocols available?
+clean_trained,G-C 2 Have all staff responsible for cleaning received training? 
+,G-C 2 Have all staff responsible for cleaning received training?  (Don't Know)
+,Please choose the water service level
+,Please choose the sanitation service level
+,Please choose the Hand Hygiene service level
+,Please choose the health care waste service level
+,Please choose the environemntal cleaning level
